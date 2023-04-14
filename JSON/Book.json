@@ -1,0 +1,26 @@
+[
+  {
+    "Book": {
+      "year of manufacture": 2018,
+      "FirstName": "Khéo ăn khéo nói sẽ có được cả thiên hạ",
+      "Author": "Trác Nhã",
+      "Chapter number": 22
+    }
+  },
+  {
+    "Book": {
+      "year of manufacture": 1975,
+      "FirstName": "How to Win Friends and Influence People",
+      "Author": "Dale Carnegie",
+      "Chapter number": 39
+    }
+  },
+  {
+    "Book": {
+      "year of manufacture": 1937,
+      "Author": "Napoleon Hill",
+      "Chapter number": 25,
+      "Name": "Think and Grow Rich"
+    }
+  }
+]
